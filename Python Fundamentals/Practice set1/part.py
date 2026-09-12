@@ -1,0 +1,5 @@
+no = float(input("Enter decimal number :"))
+int_part = int(no)
+fract_part = no - int(no)
+print(f"Integer part of input number : {int_part}")
+print(f"Fractional part of input number : {round(fract_part,2)}")

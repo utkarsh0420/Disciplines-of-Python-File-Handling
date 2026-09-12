@@ -1,0 +1,12 @@
+Deep is a word we have all been reading for a long time. 
+Let us understand why it is called deep neural network. 
+The past rules developed for networks such as perceptron, HNN, etc., worked on the concept of one input layer and one output layer.
+But, if it's more than 3 layers, including the output and input layers, then it is called a deep neural network. 
+Hence, deep in its rawest form is more than just one hidden layer. 
+In DNNs, every layer of nodes [9] trains on a different set of features based on the previous layer's output. 
+So, the more you go into the net, the more you can advance into it, and the more complex features the nodes can recognize [12]. 
+This is because it recombines and learns from the features of the previous layer. 
+This is what is called future hierarchy. 
+These nets allow complex nonlinear relationships. 
+The major advantage which DNNs hold is the ability of dealing with unstructured and unlabeled data which is actually most of the world's data. 
+Especially in the medical field, most of the data is unstructured and unlabeled.

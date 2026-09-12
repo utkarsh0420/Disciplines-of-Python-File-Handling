@@ -1,0 +1,3 @@
+Python executed successfully.
+Using high power libraries like pytorch, scikit-learn, TensorFlow etc provide effective intelligence.
+python throws error for incorrect syntax.
