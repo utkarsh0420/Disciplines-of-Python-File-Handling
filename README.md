@@ -1,4 +1,4 @@
-# Disciplines of Python — OOPs & File Handling
+# Disciplines of Python 
 
 A collection of Python programs and practice exercises covering **Object-Oriented Programming (OOPs), File Handling, and core Python programming concepts**.
 
